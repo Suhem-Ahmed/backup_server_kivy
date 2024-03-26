@@ -1,0 +1,11 @@
+cython<3.0
+pexpect
+
+[docs]
+sphinx
+
+[ios]
+kivy-ios
+
+[test]
+pytest
